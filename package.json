@@ -1,0 +1,23 @@
+{
+  "name": "oktrade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wxjbnu/oktrade.git"
+  },
+  "author": "wxj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wxjbnu/oktrade/issues"
+  },
+  "homepage": "https://github.com/wxjbnu/oktrade#readme",
+  "devDependencies": {
+    "leancloud-storage": "^3.6.8",
+    "request": "^2.85.0"
+  }
+}
