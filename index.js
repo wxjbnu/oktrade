@@ -77,6 +77,6 @@ function saveLeanCloud(table, data) {
 
   }
 
-// setInterval(() => {
+setInterval(() => {
     getNow()
-// }, 1000)
+}, 5000)
